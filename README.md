@@ -1,4 +1,4 @@
-Hello there! 👋 My name is Marcelo dos Santos, and I am a passionate QA Engineer and Front-End Dev with one years of experience in automation testing. My expertise covers front-end and back-end automation, mobile, and APIs / front-end and back-end developing and create API's
+Hello there! 👋 My name is Marcelo dos Santos, and I am a passionate QA Engineer and Front-End Dev with one year of experience in automation testing. My expertise covers front-end and back-end automation, mobile, and APIs / front-end and back-end developing and create API's
 
 🔭 Currently, I am working on a new project that involves using React and a API Restful that i developed.
 
