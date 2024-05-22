@@ -1,14 +1,18 @@
-Hello there! 👋 My name is Marcelo dos Santos, and I am a passionate QA Engineer and Front-End Dev with one year of experience in automation testing. My expertise covers front-end and back-end automation, mobile, and APIs / front-end and back-end developing and create API's
+# Hello there! 👋
 
-🔭 Currently, I am working on a new project that involves using React and a API Restful that i developed.
+My name is Marcelo dos Santos, and I am a passionate Front-End Developer with expertise in React and TypeScript. I have extensive experience in creating dynamic and responsive user interfaces.
 
-🌱 I am also continuously learning about Python, Robotframework, and the newest Safari Webkit to stay up-to-date with the latest trends in automation.
+## 🔭 Current Projects
+I am currently working on an exciting new project using React and a RESTful API that I developed. This project involves optimizing the user experience and ensuring seamless integration with backend services.
 
-👯 I am looking to collaborate on a full API project to create new mapping and scenario testing to achieve full application API coverage.
+## 🌱 Continuous Learning
+I am continuously learning and staying up-to-date with the latest trends in front-end development and related technologies. My current focus is on enhancing my skills in React, TypeScript, and modern web development practices.
 
-🤔 I am also eager to help the QA community more by spreading the word about automation and its benefits.
+## 👯 Collaboration
+I am looking to collaborate on projects involving full-stack development, particularly those that require robust front-end solutions with React and TypeScript.
 
-💬 Feel free to ask me about how to improve your code patterns, and I will be glad to help. 😊
+## 💬 Let's Connect
+Feel free to reach out to me if you have any questions about improving your code patterns or if you want to discuss potential collaborations. I am always eager to connect with fellow developers and share knowledge.
 
 📫 You can reach me via my LinkedIn account at Linkedin account 
 <a href="https://www.linkedin.com/in/marcelo-dos-santos-4362ba218/">
